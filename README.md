@@ -1,7 +1,7 @@
 # BrickBreaker
 
 ## Environment :-
-  **Library Pygame in Python 3 for game.\n**
+  **Library Pygame in Python 3 for game.**
   **Package Pyinstaller for executable file.**
 
 ## Display :-
@@ -17,8 +17,10 @@
 ## Game :-
   The game has 8 levels of difficulties. 
   In each leves you need to break all the bricks within the 3 chances per level.
-  If the chances get over you lose the game and are set to the you lose screen after which pressing enter takes you to the start screen of the level 1.
-  If you complete all the levels you win tne game and are set to the you win screen after which pressing enter takes you to the start screen of the level 1.
+  If the chances get over you lose the game and are set to the you 
+  lose screen after which pressing enter takes you to the start screen of the level 1.
+  If you complete all the levels you win tne game and are set to the you 
+  win screen after which pressing enter takes you to the start screen of the level 1.
 
 ## Executable :-
   The exe file is produced using the lib pyinstaller using the command ->
