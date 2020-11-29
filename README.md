@@ -1,8 +1,8 @@
 # BrickBreaker
 
 ## Environment :-
-  Library Pygame in Python 3 for game
-  Package Pyinstaller for executable file
+  **Library Pygame in Python 3 for game.**
+  **Package Pyinstaller for executable file.**
 
 ## Display :-
   1080 x 680 px
