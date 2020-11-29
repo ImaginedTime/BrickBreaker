@@ -1,7 +1,7 @@
 # BrickBreaker
 
 ## Environment :-
-  **Library Pygame in Python 3 for game.**
+  **Library Pygame in Python 3 for game.\n**
   **Package Pyinstaller for executable file.**
 
 ## Display :-
